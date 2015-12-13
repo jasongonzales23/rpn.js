@@ -1,0 +1,23 @@
+{
+  "name": "rpn.js",
+  "version": "1.0.0",
+  "description": "A Javascript implementation of a simplified RPN calculator",
+  "main": "rpn.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasongonzales23/rpn.js.git"
+  },
+  "keywords": [
+    "rpn",
+    "js"
+  ],
+  "author": "Jason Gonzales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasongonzales23/rpn.js/issues"
+  },
+  "homepage": "https://github.com/jasongonzales23/rpn.js#readme"
+}
