@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jasongonzales23/rpn.js/issues"
   },
-  "homepage": "https://github.com/jasongonzales23/rpn.js#readme"
+  "homepage": "https://github.com/jasongonzales23/rpn.js#readme",
+  "dependencies": {
+    "big-decimal": "^1.0.2"
+  }
 }

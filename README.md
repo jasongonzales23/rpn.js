@@ -5,7 +5,7 @@ To run this you will need Node.js @ version 4.
 Download it [here](https://nodejs.org/en/).
 
 ## Running the Calculator
-Once you've cloned the repo and installed Node, you run the calculator from the command line of Terminal (I'm presuming a *nix terminal BTW).
+Once you've cloned the repo and installed Node, you run the calculator from the command line of Terminal (I'm presuming a nix terminal BTW).
 
 You can either interact with the calculator manually via terminal or feed it a file via stdin.
 

@@ -1,10 +1,12 @@
+var big = require('big-decimal');
+
 var Operators = {
   add: function(lh, rh) {
-    return lh + rh
+    return new big(lh).add(new big(rh)).toString()
   },
 
-  substract: function(lh, rh) {
-    return lh - rh
+  subtract: function(lh, rh) {
+    return new big(lh).subtract(new big(rh)).toString()
   },
 
   multiply: function(lh, rh) {
